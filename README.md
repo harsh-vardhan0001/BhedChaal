@@ -1,5 +1,3 @@
-# BhedChaal
-BhedChaal 🐑 is a smart AI-based web app that monitors crowd density and detects abnormal movement using YOLOv8. It supports live webcam or video uploads and shows real-time alerts for crowd risks like stampedes. Built with Streamlit for quick deployment and ease of use.
 # 🐑 BhedChaal - AI-Powered Crowd Management System
 
 **BhedChaal** is an intelligent crowd monitoring and anomaly detection system that leverages AI and computer vision to ensure safety, predict dangerous crowd behavior, and assist in efficient public management during events, rallies, and gatherings.
